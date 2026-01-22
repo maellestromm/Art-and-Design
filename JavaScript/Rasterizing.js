@@ -8,7 +8,7 @@ import { Rasterizer } from './rasterizer.js';
 
 /*
 * Maelle McCallum
-* 301550046
+* Student #
 * CMPT 361 - D100
 */
 
