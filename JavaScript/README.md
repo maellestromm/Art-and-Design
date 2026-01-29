@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  My JavaScript code is included here, but the complete package of files used to run the programs is omitted to protect course materials.
+  My JavaScript code for Rasterizing and Rendering is including in this repository, but the complete package of files used to run the programs is omitted to protect course materials.
 </p>
 
 - <b>Rasterizing Practice</b><br>
