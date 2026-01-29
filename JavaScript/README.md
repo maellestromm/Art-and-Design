@@ -1,6 +1,6 @@
 # Computer Graphics Assigments in JavaScript
 <p>
-  Created in CMPT 361 - Introduction to Visual Computing, <b>March - April 2025</b>
+  Created in CMPT 361 - Introduction to Visual Computing at SFU, <b>March - April 2025</b>
 </p>
 
 <p>
