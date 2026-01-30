@@ -14,9 +14,9 @@
 
 <h2>Star Charm Design Iterations</h2>
 
-<img alt="Model 1" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels1.png" width="20%"></img> <img alt="Model 2" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels2.png" width="20%"></img> <img alt="Model 3" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels3.png" width="20%"></img> <img alt="Model 4" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels4.png" width="20%"></img> <img alt="Model 5" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels5.png" width="20%"></img> <br>
+<img alt="Model 1" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels1.png" width="30%"></img> <img alt="Model 2" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels2.png" width="30%"></img> <img alt="Model 3" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels3.png" width="30%"></img> <img alt="Model 4" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels4.png" width="30%"></img> <img alt="Model 5" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels5.png" width="30%"></img> <br>
 
-<b>Final Model:</b>
+<b>Final Model:</b><br>
 <img alt="Final Model" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels6.png" width="60%">
 <br>
 
