@@ -1,3 +1,9 @@
+# 3D Modelling and Design:
+
+- <b>3D Modelling and Printing with Fusion360 and UltiMaker Cura</b>
+  - [Star Charms](https://github.com/maellestromm/Art-and-Design/blob/3d0a523d86f4794a1dbfd3c72bea7a16a095ce56/3DModelling/README.md)<br>
+<img alt="Processed 1" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/ProcessedCharm1.jpeg" width="20%"></img> <img alt="Processed 2" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/ProcessedCharm2.jpeg" width="20%"></img> <img alt="Final Model" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels6.png" width="20%"></img> <img alt="Model 4" src="https://github.com/maellestromm/Art-and-Design/blob/6205cce2666669dadd567479486d4432ba4a0bd4/3DModelling/StarCharms/StarModels4.png" width="20%"></img> <br>
+ 
 # Computer Graphics, Digital Art, and Graphic Design:
 
 - <b>Visual Computing Assignment with MATLAB</b>
